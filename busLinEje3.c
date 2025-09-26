@@ -1,5 +1,5 @@
 
-// Busqueda lineal mejorada (CON ARREGLO YA ORDENADO)
+// Busqueda lineal con recursividad
 
 #include <stdio.h>
 
